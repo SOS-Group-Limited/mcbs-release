@@ -1,6 +1,10 @@
 # Multi-Cloud Billing System (MCBS) Release Note
 
 ## v1.4.0 - 21 Mar 2023
+- Added disclaimer message for GCP and AWS
+- Bugfix and minor changes
+
+## v1.4.0 - 21 Mar 2023
 - Cost projection on charts
 - Bugfix and minor changes
 
