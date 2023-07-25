@@ -1,5 +1,9 @@
 # Multi-Cloud Billing System (MCBS) Release Note
 
+## v1.5.7 - 25 Jul 2023
+- Email and alert notification on the spending limit
+- Bugfix and minor changes
+
 ## v1.5.0 - 29 Mar 2023
 - Raw list display implemented
 - GCP data will be shown in every month end
