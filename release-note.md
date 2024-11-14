@@ -1,5 +1,9 @@
 # Multi-Cloud Billing System (MCBS) Release Note
 
+## v1.6.0 - 13 Nov 2024
+- Performance and loading finetune
+- Bugfix and minor changes
+
 ## v1.5.7 - 25 Jul 2023
 - Email and alert notification on the spending limit
 - Bugfix and minor changes
